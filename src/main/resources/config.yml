@@ -1,0 +1,68 @@
+autominer-regen-delay: 1
+
+generators:
+  wood:
+    blocks:
+      - OAK_LOG
+      - SPRUCE_LOG
+      - BIRCH_LOG
+      - JUNGLE_LOG
+      - ACACIA_LOG
+      - DARK_OAK_LOG
+      - CHERRY_LOG
+      - MANGROVE_LOG
+      - OAK_PLANKS
+      - SPRUCE_PLANKS
+      - BIRCH_PLANKS
+      - JUNGLE_PLANKS
+      - ACACIA_PLANKS
+      - DARK_OAK_PLANKS
+      - CHERRY_PLANKS
+      - MANGROVE_PLANKS
+
+  stone:
+    blocks:
+      - STONE
+      - COBBLESTONE
+      - GRANITE
+      - DIORITE
+      - ANDESITE
+      - DEEPSLATE
+      - COBBLED_DEEPSLATE
+      - CALCITE
+      - TUFF
+      - DRIPSTONE_BLOCK
+
+  ores:
+    blocks:
+      - COAL_ORE
+      - IRON_ORE
+      - COPPER_ORE
+      - GOLD_ORE
+      - REDSTONE_ORE
+      - EMERALD_ORE
+      - LAPIS_ORE
+      - DIAMOND_ORE
+      - DEEPSLATE_COAL_ORE
+      - DEEPSLATE_IRON_ORE
+      - DEEPSLATE_COPPER_ORE
+      - DEEPSLATE_GOLD_ORE
+      - DEEPSLATE_REDSTONE_ORE
+      - DEEPSLATE_EMERALD_ORE
+      - DEEPSLATE_LAPIS_ORE
+      - DEEPSLATE_DIAMOND_ORE
+
+  nether:
+    blocks:
+      - NETHERRACK
+      - NETHER_BRICKS
+      - SOUL_SAND
+      - SOUL_SOIL
+      - MAGMA_BLOCK
+      - BASALT
+      - BLACKSTONE
+      - CRIMSON_NYLIUM
+      - WARPED_NYLIUM
+      - NETHER_GOLD_ORE
+      - NETHER_QUARTZ_ORE
+      - ANCIENT_DEBRIS
