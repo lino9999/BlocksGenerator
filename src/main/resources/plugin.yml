@@ -6,11 +6,11 @@ author: Lino
 description: Block generator plugin for infinite block farming
 
 commands:
-  blockgenerator:
+  blocksgen:
     description: Block generator management command
-    usage: /blockgenerator give <player> <generator>
+    usage: /blocksgen give <player> <generator>
     permission: blocksgenerator.admin
-    aliases: [bg, blockgen]
+    aliases: [bg, blockgen, bgen]
 
 permissions:
   blocksgenerator.admin:
